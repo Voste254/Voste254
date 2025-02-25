@@ -1,8 +1,7 @@
+<img src="https://https://i.pinimg.com/736x/95/e2/a6/95e2a675e17c3607e91297014d544027.jpg" width="400"/>
 ### 🏆 About Me:
 - 🎓 I'm a **Student** at Egerton University
-<img src="https://https://i.pinimg.com/736x/95/e2/a6/95e2a675e17c3607e91297014d544027.jpg" width="400"/>
-
-- 💻 I love **Full-Stack Development** & **AI**
+- 💻 I love **Full-Stack Development** , **Machine Learning** & **AI**
 - 🚀 I’m currently learning **Django & Node.js**
 - 📫 Reach me at: **onyangosteveok.com**
 
