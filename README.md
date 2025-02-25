@@ -1,4 +1,3 @@
-<img src="https://https://i.pinimg.com/736x/95/e2/a6/95e2a675e17c3607e91297014d544027.jpg" width="400"/>
 ### 🏆 About Me:
 - 🎓 I'm a **Student** at Egerton University
 - 💻 I love **Full-Stack Development** , **Machine Learning** & **AI**
