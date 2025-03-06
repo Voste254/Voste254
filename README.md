@@ -1,10 +1,10 @@
-### 🏆 About Me:
-- 🎓 I'm a **Student** at Egerton University
-- 💻 I love **Full-Stack Development** , **Machine Learning** & **AI**
-- 🚀 I’m currently learning **Django & Node.js**
-- 📫 Reach me at: **onyangosteveok.com**
+### About Me:
+- I'm a **Student** at Egerton University
+- I love **Full-Stack Development** , **Machine Learning** & **AI**
+- I’m currently learning **Django & Node.js**
+- Reach me at: **onyangosteveok.com**
 
-### 🛠️ Tech Stack:
+###  Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -22,7 +22,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voste254&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&layout=compact&theme=radical)
