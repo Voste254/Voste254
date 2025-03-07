@@ -1,5 +1,5 @@
 ### About Me:
-- I'm a **Student** at Egerton University
+- I'm a Student at Egerton University
 - I love **Full-Stack Development** , **Machine Learning** & **AI**
 - I’m currently learning **Django & Node.js**
 - Reach me at: **onyangosteveok.com**
