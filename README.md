@@ -2,7 +2,7 @@
 - I'm a Student at Egerton University
 - I love **Full-Stack Development** , **Machine Learning** & **Artificial Intelligence**
 - I’m currently learning **Django & Node.js**
-- Reach me at: **onyangosteveok.com**
+- Reach me via email: **onyangosteveok.com**
 
 ###  Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
