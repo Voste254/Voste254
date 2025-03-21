@@ -25,9 +25,7 @@
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voste254&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&cache_seconds=86400)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&layout=compact&theme=radical&cache_seconds=86400)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voste254&theme=radical)
 ### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Voste254&theme=react)
