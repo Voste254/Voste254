@@ -25,7 +25,7 @@
 ##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Voste254&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&layout=compact&theme=radical&cache_seconds=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Voste254&layout=compact&theme=radical&cache_seconds=10)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Voste254&theme=radical)
 
 
