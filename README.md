@@ -1,7 +1,6 @@
 ### About Me:
 - I'm a Student at Egerton University
-- I love **Full-Stack Development** , **Machine Learning** & **Artificial Intelligence**
-- I’m currently learning **Django & Node.js**
+- **Full-Stack Development** , **Machine Learning** & **Artificial Intelligence** enthusiast
 - Reach me via email: **onyangosteveok.com**
 
 ###  Tech Stack:
