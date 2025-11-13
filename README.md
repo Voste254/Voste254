@@ -1,5 +1,5 @@
 ### About Me:
-- I'm a Student at Egerton University
+- I'm a Student at Egerton University.
 - **Full-Stack Development** , **Machine Learning** & **Artificial Intelligence** enthusiast
 - Reach me via email: **onyangosteveok@gmail.com**
 
