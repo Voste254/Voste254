@@ -1,7 +1,7 @@
 ### About Me:
 - I'm a Computer Science Student at Egerton University.
 - **Full-Stack Development** , **Machine Learning** & **Artificial Intelligence** enthusiast.
-- Reach me via email: **onyangosteveok@gmail.com**.
+- Reach me via email: **onyangosteveok@gmail.com**
 
 ###  Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
